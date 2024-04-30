@@ -1,9 +1,9 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ogtay%20Iskandarov&textBg=false&desc=Frontend%20Developer%20&animation=twinkling&fontAlignY=43' />
 
-Olá, me chamo Luan Ramos, um desenvolvedor Front-end criativo com 1 ano de aprendizado e experiência em projetos freelance especializado na tecnologia ReactJS. Eu priorizo um código limpo, perfomance otimizada e usabilidade excepcional de aplicações web em larga escala.
-
-
-Meu entusiasmo pela tecnologia e o compromisso com o aprendizado contínuo me impulsionam a entregar soluções inovadoras que superam as expectativas do cliente. Estou ansioso para colaborar com outros profissionais e assumir projetos desafiadores que vão além dos limites da tecnologia.
+- 🔭 I’m currently working in *CELT Colleges*
+- 🌱 I’m currently learning *NestJS & GraphQL*
+- 💬 Ask me about *TypeScript, React, Next.js, Node.js, Express.js*
+- 📫 How to reach me *oktayiskenderov15@gmail.com*
 
 <h2 align="left" id="rahim-stack">Tech stack</h2>
 
@@ -26,32 +26,17 @@ Meu entusiasmo pela tecnologia e o compromisso com o aprendizado contínuo me im
       <a href="https://yarnpkg.com/" >
         <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48" height="48" alt="yarn" min-width="44" />
       </a> 
-      <a href="https://pnpm.io/" >
-        <img src="https://www.svgrepo.com/show/373984/pnpm.svg" width="48" height="48" alt="pnpm" min-width="44" />
-      </a> 
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
             <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="48" height="48" min-width="44" /> 
         </a>
-        <a href="https://www.beekeeperstudio.io" target="_blank" rel="noreferrer"> 
-            <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png" alt="beekeeperstudio" width="48" height="48" min-width="44" /> 
-        </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
             <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp" alt="aws" padding="10" width="48" height="48" min-width="44"/> 
-        </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48" min-width="44" /> 
         </a>
   </tr> 
 </table>
@@ -75,18 +60,16 @@ Meu entusiasmo pela tecnologia e o compromisso com o aprendizado contínuo me im
             <a href="https://tailwindcss.com/">
               <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="tailwind" min-width="44" />
             </a>
-           <a href="https://ui.aceternity.com/">
-              <img src="https://pbs.twimg.com/profile_images/1748413098740920320/2RGyMp9c_400x400.png" width="48" height="48" alt="aceternity" min-width="44" />
-            </a>
             <a href="https://mui.com/">
               <img src="https://mui.com/static/logo.png" width="48" height="48" alt="mui" min-width="44" />
+            </a>
+           <a href="https://ui.aceternity.com/">
+              <img src="https://pbs.twimg.com/profile_images/1748413098740920320/2RGyMp9c_400x400.png" width="48" height="48" alt="aceternity" min-width="44" />
             </a>
       <a href="#rahim-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" min-width="44" />
       </a>  
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" min-width="44" alt="typescript" width="48" height="48"/> </a>
-        <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/a/51/angular.svg" min-width="44" alt="angular" width="48" height="48" /> </a>
-        <a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" min-width="44" alt="ngrx" width="48" height="48"/> </a>
       <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/452092/react.svg" width="48" height="48" min-width="44" alt="React" />
       </a>
@@ -114,12 +97,6 @@ Meu entusiasmo pela tecnologia e o compromisso com o aprendizado contínuo me im
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
             <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="48" height="48" min-width="44" /> 
         </a>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48" min-width="44" /> 
-        </a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="mongodb" width="48" height="48" min-width="44" /> 
         </a>
@@ -132,24 +109,9 @@ Meu entusiasmo pela tecnologia e o compromisso com o aprendizado contínuo me im
              <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="socket" width="48" height="48" min-width="44" /> 
         </a>
-     <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer" style="padding: 5px;" > 
-            <img src="https://cdn.worldvectorlogo.com/logos/passport.svg" alt="passport" width="48" height="48" min-width="44" /> 
-        </a>
-     <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
-            <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="48" height="48" min-width="44" /> 
-        </a>
      <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
             <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.brighttalk.com/ams/california/images/channel/19370/image_826795.png?width=300&height=300" alt="apollo" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="48" height="48" min-width="44" /> 
         </a>
   </tr> 
 </table>
 
-Todos os meus projetos estão disponíveis em [https://luanrramos.github.io/portfolio/](https://luanrramos.github.io/portfolio/)
-
-Você pode me enviar um email luanrnr1227@gmail.com ou me chamar no [Linkedin](https://www.linkedin.com/in/luanrramos/) 

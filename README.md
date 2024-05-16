@@ -105,10 +105,7 @@
         </a>
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="postgresql" width="48" height="48" min-width="44" /> 
-        </a>
-             <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="socket" width="48" height="48" min-width="44" /> 
-        </a>
+        
      <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
             <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48" min-width="44" /> 
         </a>

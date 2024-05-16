@@ -106,7 +106,6 @@
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="postgresql" width="48" height="48" min-width="44" /> 
         </a>
-        
      <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
             <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48" min-width="44" /> 
         </a>

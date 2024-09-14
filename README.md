@@ -1,8 +1,8 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ogtay%20Iskandarov&textBg=false&desc=Frontend%20Developer%20&animation=twinkling&fontAlignY=43' />
 
 - 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning *NestJS & GraphQL*
-- 💬 Ask me about *TypeScript, React, Next.js, Node.js, Express.js*
+- 🌱 I’m currently learning *Convex*
+- 💬 Ask me about *TypeScript, Next.js*
 - 📫 How to reach me *oktayiskenderov15@gmail.com*
 
 <h2 align="left" id="rahim-stack">Tech stack</h2>

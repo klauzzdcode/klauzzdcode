@@ -1,6 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ogtay%20Iskandarov&textBg=false&desc=Frontend%20Developer%20&animation=twinkling&fontAlignY=43' />
 
-- 🔭 I’m currently working in *CELT Colleges*
+- 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning *NestJS & GraphQL*
 - 💬 Ask me about *TypeScript, React, Next.js, Node.js, Express.js*
 - 📫 How to reach me *oktayiskenderov15@gmail.com*
@@ -64,7 +64,7 @@
               <img src="https://mui.com/static/logo.png" width="48" height="48" alt="mui" min-width="44" />
             </a>
            <a href="https://ui.aceternity.com/">
-              <img src="https://pbs.twimg.com/profile_images/1748413098740920320/2RGyMp9c_400x400.png" width="48" height="48" alt="aceternity" min-width="44" />
+              <img src="[https://pbs.twimg.com/profile_images/1748413098740920320/2RGyMp9c_400x400.png](https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=128&q=75)" width="48" height="48" alt="aceternity" min-width="44" />
             </a>
       <a href="#rahim-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" min-width="44" />

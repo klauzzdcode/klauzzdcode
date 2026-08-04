@@ -1,114 +1,98 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ogtay%20Iskandarov&textBg=false&desc=Frontend%20Developer%20&animation=twinkling&fontAlignY=43' />
+<div align="center">
 
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning *Convex*
-- 💬 Ask me about *TypeScript, Next.js*
-- 📫 How to reach me *oktayiskenderov15@gmail.com*
+<a href="https://klauzzdcode.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="100%" alt="klauzzdcode - design that ships. Ogtay Iskandarov, designer and full-stack developer, Baku.">
+  </picture>
+</a>
 
-<h2 align="left" id="rahim-stack">Tech stack</h2>
+<p>
+  <a href="https://klauzzdcode.com"><img src="assets/btn-website.svg" height="34" alt="Visit klauzzdcode.com"></a>
+  <a href="https://klauzzdcode.com/en/projects"><img src="assets/btn-projects.svg" height="34" alt="Case studies"></a>
+  <a href="https://klauzzdcode.com/en/blogs"><img src="assets/btn-blog.svg" height="34" alt="Blog"></a>
+  <a href="mailto:hello@klauzzdcode.com"><img src="assets/btn-email.svg" height="34" alt="Email hello@klauzzdcode.com"></a>
+  <a href="https://www.linkedin.com/in/ogtay-iskandarov-a9b171230/"><img src="assets/btn-linkedin.svg" height="34" alt="LinkedIn"></a>
+</p>
 
->  General
- 
-<table width='100%'>
-  <tr>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="visualstudiocode" width="44" height="44"/> 
-        </a>
-       <a href="https://www.figma.com/" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" min-width="44" />
-      </a>   
-      <a href="https://git-scm.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" min-width="44" alt="Git" />
-      </a>
-      <a href="https://www.npmjs.com/" >
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" width="48" height="48" alt="npm" min-width="44" />
-      </a>
-      <a href="https://yarnpkg.com/" >
-        <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48" height="48" alt="yarn" min-width="44" />
-      </a> 
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
-            <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="48" height="48" min-width="44" /> 
-        </a>
-  </tr> 
+</div>
+
+# Ogtay Iskandarov
+
+**[klauzzdcode](https://klauzzdcode.com) is my one-person design-engineering studio in Baku.** I take web products from Figma to production on my own: UI/UX, frontend, backend, AI features, SEO and GEO. Since 2025 I am chief designer and full-stack developer at Roamify, building a production eSIM platform end to end. Freelance since 2023 for clients across Russia, Kazakhstan, Kyrgyzstan, Ukraine and the UK.
+
+> The person who reads your brief is the person who writes the code and ships it. No handoff, nothing lost in translation.
+
+<sub>`brief → figma → build → ship` · fixed scope or retainer, always with a deploy at the end</sub>
+
+---
+
+## `01` Selected work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://klauzzdcode.com/en/projects/kyoto-mobile-esim-platform"><img src="https://cdn.sanity.io/images/bzo8iolo/production/f2f1faff736824858a0c22fca4fba9785e6722d5-2560x1440.png?w=560&h=315&fit=crop&auto=format" width="260" alt="Kyoto Mobile storefront showing Japan eSIM data plan comparison"></a>
+<br><br>
+<b><a href="https://klauzzdcode.com/en/projects/kyoto-mobile-esim-platform">Kyoto Mobile</a></b>
+<br>
+<sub>Multilingual Japan travel eSIM storefront. Plan comparison, Stripe checkout, Next.js and NestJS.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://klauzzdcode.com/en/projects/roamify-esim-seo-geo"><img src="https://cdn.sanity.io/images/bzo8iolo/production/aa6768795f27b4f677f344062b9fddec97437a0d-1913x1074.png?w=560&h=315&fit=crop&auto=format" width="260" alt="Roamify homepage showcasing the travel eSIM platform and its search-optimized experience"></a>
+<br><br>
+<b><a href="https://klauzzdcode.com/en/projects/roamify-esim-seo-geo">Roamify - SEO &amp; GEO</a></b>
+<br>
+<sub>Technical SEO and Generative Engine Optimization on a production eSIM platform. Routing, structured data, programmatic pages.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://klauzzdcode.com/en/projects/terravault-marketing-site"><img src="https://cdn.sanity.io/images/bzo8iolo/production/ed412ed4ad4fc73d9050b1fd0197cc58776e6dca-1914x1076.png?w=560&h=315&fit=crop&auto=format" width="260" alt="Terravault website homepage presenting military-grade protective shelter systems"></a>
+<br><br>
+<b><a href="https://klauzzdcode.com/en/projects/terravault-marketing-site">Terravault</a></b>
+<br>
+<sub>Hand-coded marketing site for a military-grade shelter manufacturer. Live in two days.</sub>
+</td>
+</tr>
 </table>
 
->  Frontend
- 
-<table width='100%'> 
-    <tr>
-            <a href="#rahim-stack">
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="Html5" min-width="44" />
-            </a>
-            <a href="#rahim-stack" >
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="css3" min-width="44" />
-            </a>
-            <a href="https://sass-lang.com/">
-              <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" min-width="44" />
-            </a>
-     <a href="https://getbootstrap.com/">
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="bootstrap" min-width="44" />
-            </a>
-            <a href="https://tailwindcss.com/">
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="tailwind" min-width="44" />
-            </a>
-            <a href="https://mui.com/">
-              <img src="https://mui.com/static/logo.png" width="48" height="48" alt="mui" min-width="44" />
-            </a>
-           <a href="https://ui.aceternity.com/">
-              <img src="[https://pbs.twimg.com/profile_images/1748413098740920320/2RGyMp9c_400x400.png](https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=128&q=75)" width="48" height="48" alt="aceternity" min-width="44" />
-            </a>
-      <a href="#rahim-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" min-width="44" />
-      </a>  
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" min-width="44" alt="typescript" width="48" height="48"/> </a>
-      <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/452092/react.svg" width="48" height="48" min-width="44" alt="React" />
-      </a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" min-width="44" alt="nextjs"     
-            width="48" height="48"/> 
-        </a>    
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="48" height="48" min-width="44" /> 
-        </a>
+<sub>// every one designed, coded and deployed by the same pair of hands · [all projects →](https://klauzzdcode.com/en/projects)</sub>
 
-  </tr> 
-</table>
+## `02` Writing
 
->  Backend
- 
-<table width='100%'> 
-    <tr>
-        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-            <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="express" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="mongodb" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="mysql" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="postgresql" width="48" height="48" min-width="44" /> 
-        </a>
-     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48" min-width="44" /> 
-        </a>
-  </tr> 
-</table>
+Notes on design systems, Next.js, SEO/GEO and AI-assisted workflows - what survives contact with production.
 
+- **[Claude Code + Obsidian without the flat log](https://klauzzdcode.com/en/blogs/claude-code-obsidian-mcp-notes)** - connecting Claude Code to Obsidian over MCP, and the four-part note template that replaced a 407-line work log.
+
+<sub>[all posts →](https://klauzzdcode.com/en/blogs)</sub>
+
+## `03` Stack
+
+| | |
+|---|---|
+| **Design** | Figma · design systems · prototyping · identity and layout |
+| **Frontend** | React · Next.js · TypeScript · Tailwind · SCSS/Less · PostCSS · shadcn/ui · Redux · Framer Motion · next-intl |
+| **Backend** | Node.js · NestJS · Express · Prisma · REST APIs · NextAuth · Clerk · Passport · OAuth |
+| **Data** | PostgreSQL · MySQL · MongoDB · Redis · Typesense |
+| **Infra** | AWS · Vercel · Cloudinary · Stripe · Resend · Sanity · Git |
+| **AI &amp; SEO** | LLM features · agents · prompt tooling · structured data · Core Web Vitals · GEO |
+| **Also** | Web3.js and smart-contract integrations |
+
+## `04` Now
+
+- Building a production eSIM platform at **Roamify** - design direction through to deploy.
+- Learning **Convex**.
+- Writing case studies and technical posts at [klauzzdcode.com/en/blogs](https://klauzzdcode.com/en/blogs).
+- B.S. Computer Engineering, Azerbaijan Technical University · M.B.A. candidate, Baku Business University.
+- Russian native · English and Turkish advanced · Azerbaijani · Japanese basic · French beginner.
+
+---
+
+<div align="center">
+
+**Have an idea?** Describe the problem, not the service, and I will tell you honestly what it needs.
+
+<a href="mailto:hello@klauzzdcode.com">hello@klauzzdcode.com</a> · <a href="https://klauzzdcode.com/en#contact">klauzzdcode.com</a>
+
+<sub>// open for projects · Baku (GMT+4) · worldwide, async-friendly</sub>
+
+</div>
